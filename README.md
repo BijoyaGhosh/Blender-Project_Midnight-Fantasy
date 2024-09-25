@@ -1,1 +1,2 @@
-Take a fascinating journey to a mystical amusement park where children revel in exhilarating rides and boundless joy. Even as a dream, the experience leaves a lasting impact, inspiring happiness long after waking. This charming tale, crafted for a graphics design course, captures the essence of a child's imagination and the pure joy of dreaming.
+# Blender_Project (Amusement_Park)
+ 
